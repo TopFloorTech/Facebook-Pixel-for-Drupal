@@ -6,12 +6,12 @@ Facebook Pixel on your Drupal site, detect and fire pixel events automatically!
 
 ## Get started
 
-Download the zip file marked 'official-facebook-pixel-x.x-[version number].zip' attached to the current release.
+Download the zip file marked 'official-facebook-pixel-8.x-[version number].zip' attached to the current release.
 
 ## Requirements
 
 Official Facebook Pixel requires
-* Drupal 7.x or 8.x
+* Drupal 8.x
 * PHP 5.6 or greater
 
 ## License
